@@ -1,0 +1,7 @@
+name: MinecraftServerManager
+version: 1.0-SNAPSHOT
+main: com.dalton.MinecraftServerManager
+api-version: 1.13
+authors: [DaltonBurchard]
+description: A Minecraft server manager API
+website: com.dalton.rest

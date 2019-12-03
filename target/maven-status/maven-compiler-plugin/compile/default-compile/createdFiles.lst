@@ -1,0 +1,5 @@
+com\dalton\routes\ServerPostRoutes.class
+com\dalton\api\authentication\Authentication.class
+com\dalton\api\server\Server.class
+com\dalton\MinecraftServerManager.class
+com\dalton\routes\ServerGetRoutes.class
